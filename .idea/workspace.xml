@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb2c8069-9758-45e0-8784-2b3ee81401bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1URyOqCRHmHrSoBYl9O3Y15tAhl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Experiment_50Mask_RCNN_TF_Keras_nucoco_Radarpoint_resize_imageto512_TDLRC_attention_anchboxLoss_1024_trainAllLayer_sepconv" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Experiment_50Mask_RCNN_TF_Keras_nucoco_RROI_EARLY_RANDOM_with_less_surroundingAnchors_resize_imageto1024_TDLRC_attention_bestoftwo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/nuscenes/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mask_RCNN-master/samples/coco" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mask_RCNN-master/samples/coco/nucoco.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nucoco" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Experiment_50Mask_RCNN_TF_Keras_nucoco_RROI_EARLY_RANDOM_with_less_surroundingAnchors_resize_imageto1024_TDLRC_attention_bestoftwo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/nuscenes/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RadarRGB_FusionNet/samples/coco" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RadarRGB_FusionNet/samples/coco/nucoco.py" />
+      <option name="PARAMETERS" value="train --dataset=$PROJECT_DIR$/../../../../Datasets/output_sweep_10_scenes_vis2/nucoco --model=imagenet --net=BIRANet" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb2c8069-9758-45e0-8784-2b3ee81401bb" name="Default Changelist" comment="" />
+      <created>1575334008801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575334008801</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581000138240">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="457" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1581000138240" />
+    <state x="780" y="297" key="FileChooserDialogImpl" timestamp="1581001426435">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="780" y="297" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1581001426435" />
+    <state width="1832" height="286" key="GridCell.Tab.0.bottom" timestamp="1581000660019">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="286" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1581000660019" />
+    <state width="1832" height="286" key="GridCell.Tab.0.center" timestamp="1581000660018">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="286" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1581000660018" />
+    <state width="1832" height="286" key="GridCell.Tab.0.left" timestamp="1581000660017">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="286" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1581000660017" />
+    <state width="1832" height="286" key="GridCell.Tab.0.right" timestamp="1581000660018">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="286" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1581000660018" />
+    <state x="486" y="174" key="SettingsEditor" timestamp="1576290648048">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="486" y="174" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1576290648048" />
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1578348065287">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1578348065287" />
+  </component>
+</project>
