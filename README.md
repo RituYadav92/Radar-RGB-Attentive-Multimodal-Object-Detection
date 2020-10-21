@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/RituYadav92/NuScenes_radar_RGBFused-Detection/blob/master/LICENCE)
 
 
-## Radar+RGB Attentive Fusion For Robust Object Detection in Autonomous Vehicles(Accepted in ICIP 2020,DOI: 10.1109/ICIP40778.2020.9191046)
+## Radar+RGB Attentive Fusion For Robust Object Detection in Autonomous Vehicles(ICIP 2020)
 
 ## Description: 
 Code is for two robust multimodal two-stage object detection networks BIRANet and RANet. The two modalities used in these
