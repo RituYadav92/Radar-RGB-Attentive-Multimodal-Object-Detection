@@ -70,4 +70,4 @@ Optional arguments
 ```
 
 ## Contact Information: 
-Ritu Yadav (Email: ryadav.rhrk@uni-kl.de or er.ritu92@gmail.com)
+Ritu Yadav (Email: er.ritu92@gmail.com)
