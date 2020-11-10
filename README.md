@@ -18,7 +18,7 @@ For further details, please refer to our paper(https://ieeexplore.ieee.org/docum
 
 ## Packing List: 
 The repository includes:
-* Source code(which is built on Mask RCNN code base structure[https://github.com/matterport/Mask_RCNN] but without mask/segmentation branch hence equivalent to FFPN.)
+* Source code(which is built on Mask RCNN code base structure but without mask/segmentation branch hence equivalent to FFPN.)
 * Training code
 * Trained weights for testing/evaluation
 * ParallelModel class for multi-GPU training
