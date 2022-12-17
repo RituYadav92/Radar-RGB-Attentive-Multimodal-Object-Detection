@@ -14,7 +14,7 @@ Both proposed networks proved to be robust in comparison to FFPN. BIRANet perfor
 RANet is evaluated to be robust and works reasonably well with fewer anchors, which are merely based on radar points.
 For further details, please refer to our paper(https://ieeexplore.ieee.org/document/9191046).
 
-<img src="https://github.com/RituYadav92/NuScenes_radar_RGBFused-Detection/blob/master/Demo/Front.gif" alt="alt text" width="300" height="200"> <img src="https://github.com/RituYadav92/NuScenes_radar_RGBFused-Detection/blob/master/Demo/Back_Cam.gif" alt="alt text" width="300" height="200">
+<img src="https://github.com/RituYadav92/NuScenes_radar_RGBFused-Detection/blob/master/Demo/Front.gif" alt="alt text" width="300" height="200"> &nbsp; &nbsp; &nbsp;<img src="https://github.com/RituYadav92/NuScenes_radar_RGBFused-Detection/blob/master/Demo/Back_Cam.gif" alt="alt text" width="300" height="200">
 
 ## Packing List: 
 The repository includes:
