@@ -68,6 +68,15 @@ Optional arguments
 
 # The training schedule, learning rate, and other parameters should be set in `mrcnn/config.py`.
 ```
-
+## If you are using this work, please cite:
+@INPROCEEDINGS{9191046,
+  author={Yadav, Ritu and Vierling, Axel and Berns, Karsten},
+  booktitle={2020 IEEE International Conference on Image Processing (ICIP)}, 
+  title={Radar + RGB Fusion For Robust Object Detection In Autonomous Vehicle}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1986-1990},
+  doi={10.1109/ICIP40778.2020.9191046}}
 ## Contact Information: 
 Ritu Yadav (Email: er.ritu92@gmail.com)
