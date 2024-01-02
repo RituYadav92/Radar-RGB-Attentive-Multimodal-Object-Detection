@@ -27,7 +27,7 @@ The repository includes:
 ## Player Information:  
 
 ### Installation
-1. Download [modified small NuScenes dataset](https://seafile.rlp.net/d/957d8819906a4d6c8d57/) (size: 2.7 GB).
+1. Download [modified small NuScenes dataset](https://seafile.rlp.net/d/957d8819906a4d6c8d57/) (size: 2.7 GB). [ACCESS ISSUES, TRYING TO RETRIEVE DATA]
 2. Install pycocotools using https://github.com/cocodataset/cocoapi.
 3. Install dependencies from `requirement.txt`
    ```bash
