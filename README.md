@@ -27,7 +27,7 @@ The repository includes:
 ## Player Information:  
 
 ### Installation
-1. Download [modified small NuScenes dataset](https://seafile.rlp.net/d/957d8819906a4d6c8d57/) (size: 2.7 GB). [ACCESS ISSUES, TRYING TO RETRIEVE DATA]
+1. Download [modified small NuScenes dataset](https://seafile.rlp.net/d/957d8819906a4d6c8d57/) (size: 2.7 GB). [https://drive.google.com/file/d/1uf5Ms5yopefWTRiPg2y2hR8xJ8dpiHO4/view?usp=sharing]
 2. Install pycocotools using https://github.com/cocodataset/cocoapi.
 3. Install dependencies from `requirement.txt`
    ```bash
@@ -69,6 +69,7 @@ Optional arguments
 # The training schedule, learning rate, and other parameters should be set in `mrcnn/config.py`.
 ```
 ## If you are using this work, please cite:
+Paper:
 ```bash
    @INPROCEEDINGS{9191046,
      author={Yadav, Ritu and Vierling, Axel and Berns, Karsten},
@@ -80,6 +81,8 @@ Optional arguments
      pages={1986-1990},
      doi={10.1109/ICIP40778.2020.9191046}}
 ```
+
+Full Thesis : 
 ```bash
 yadav, R. (2020) “Thesis : RADAR+RGB Fusion for Robust Object Detection in Autonomous Vehicles”. Zenodo. doi: 10.5281/zenodo.13738235.
 ```
