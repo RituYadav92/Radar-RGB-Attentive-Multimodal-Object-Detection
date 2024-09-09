@@ -79,6 +79,9 @@ Optional arguments
      number={},
      pages={1986-1990},
      doi={10.1109/ICIP40778.2020.9191046}}
-``` 
+```
+```bash
+yadav, R. (2020) “Thesis : RADAR+RGB Fusion for Robust Object Detection in Autonomous Vehicles”. Zenodo. doi: 10.5281/zenodo.13738235.
+```
 ## Contact Information: 
 Ritu Yadav (Email: er.ritu92@gmail.com)
