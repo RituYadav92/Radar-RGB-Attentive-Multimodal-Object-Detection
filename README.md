@@ -16,7 +16,7 @@ For further details, please refer to our paper(https://ieeexplore.ieee.org/docum
 
 <img src="https://github.com/RituYadav92/NuScenes_radar_RGBFused-Detection/blob/master/Demo/Front.gif" alt="alt text" width="300" height="200"> &nbsp; &nbsp; &nbsp;<img src="https://github.com/RituYadav92/NuScenes_radar_RGBFused-Detection/blob/master/Demo/Back_Cam.gif" alt="alt text" width="300" height="200">
 
-<p align="center"><em>Figure 1: Front Camera Detection, 2: Back Camera Detection </em></p>
+<p><em>Figure 1: Front Camera Detection, 2: Back Camera Detection </em></p>
 
 ## Packing List: 
 The repository includes:
